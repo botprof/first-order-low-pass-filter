@@ -10,6 +10,8 @@ We often teach or learn about filters in continuous time, but then need to imple
 
 Here is an sample of the output.
 
+![Sample ellipse](sample-lpf.svg)
+
 ## References
 
 This is relatively standard material.  Supplementary web links are given in the Jupyter notebook.
