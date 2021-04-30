@@ -4,7 +4,7 @@ We often teach or learn about filters in continuous time, but then need to imple
 
 ## Main File(s)
 
-* [first-order-lpf.ipynb](https://github.com/bot-doc/first-order-low-pass-filter/blob/main/first-order-lpf.ipynb) (Jupyter notebook)
+* [first-order-lpf.ipynb](https://nbviewer.jupyter.org/github/bot-doc/first-order-low-pass-filter/blob/main/first-order-lpf.ipynb) (Jupyter notebook)
 
 ## Sample Output
 
