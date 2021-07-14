@@ -4,7 +4,7 @@ We often teach or learn about filters in continuous time, but then need to imple
 
 ## Main File(s)
 
-* [first-order-lpf.ipynb](https://nbviewer.jupyter.org/github/bot-doc/first-order-low-pass-filter/blob/main/first-order-lpf.ipynb) (Jupyter notebook)
+* [first-order-lpf.ipynb](https://nbviewer.jupyter.org/github/botprof/first-order-low-pass-filter/blob/main/first-order-lpf.ipynb) (Jupyter notebook)
 
 ## Sample Output
 
@@ -20,7 +20,7 @@ This is relatively standard material.  Supplementary web links are given in the 
 
 You may wish to cite this work in your publications.
 
-> Joshua A. Marshall, How to Implement a First-Order Low-Pass Filter in Discrete Time, 2021, URL: [https://github.com/bot-doc/first-order-low-pass-filter](https://github.com/bot-doc/first-order-low-pass-filter).
+> Joshua A. Marshall, How to Implement a First-Order Low-Pass Filter in Discrete Time, 2021, URL: [https://github.com/bot-doc/first-order-low-pass-filter](https://github.com/botprof/first-order-low-pass-filter).
 
 You might also use the BibTeX entry below.
 
@@ -29,7 +29,7 @@ You might also use the BibTeX entry below.
   author = {Marshall, Joshua A.},
   title = {How to Implement a First-Order Low-Pass Filter in Discrete Time},
   year = {2021},
-  howpublished = {\url{https://github.com/bot-doc/first-order-low-pass-filter}}
+  howpublished = {\url{https://github.com/botprof/first-order-low-pass-filter}}
 }
 ```
 
